@@ -1,0 +1,12 @@
+
+# CI_ENV = development
+
+# DB_HOSTNAME = localhost
+# DB_USERNAME = root
+# DB_PASSWORD = root
+# DB_DATABASE = dp_sleman
+# DB_DRIVER = mysqli
+# DB_PREFIX = 
+
+# CAPTCHA_SECRETKEY = '6LfNKisdAAAAAH1FoKTW8RW4fC1pxkLNPnQ1h35K'
+# CAPTCHA_SITEKEY = '6LfNKisdAAAAABogRy22ysx4g7R6s1BRwp0d0Sln'

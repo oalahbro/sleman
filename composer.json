@@ -1,0 +1,13 @@
+{
+    "name": "dekansleman/dp_sleman",
+    "description": "web Dewandik",
+    "type": "project",
+    "require": {
+        "php": ">=5.3.7",
+        "codeigniter/framework": "dev-develop",
+        "vlucas/phpdotenv": "^5.3",
+        "ajani/flash-message": "^2.1",
+        "phpoffice/phpspreadsheet": "^1.20",
+        "satyakresna/masehi": "^0.12.1"
+    }
+}
